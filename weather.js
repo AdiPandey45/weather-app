@@ -5,7 +5,7 @@ const userContainer=document.getElementsByClassName("weather-container");
 const grantAccessContainer=document.querySelector(".grant-location");
 const searchForm=document.querySelector(".form-container");
 const loadingScreen=document.querySelector(".loading-container");
-const userInfoContainer=document.querySelector(".user-info-container");
+const userInfoContainer=document.querySelector(".user-info-container"); 
 let img=document.querySelector(".image");
 let hello=document.querySelector(".hello");
   
