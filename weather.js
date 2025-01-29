@@ -8,7 +8,7 @@ const loadingScreen=document.querySelector(".loading-container");
 const userInfoContainer=document.querySelector(".user-info-container");
 let img=document.querySelector(".image");
 let hello=document.querySelector(".hello");
- 
+  
 let currentTab=userTab;
 let API_key="fb54f95bf2a3631396fe07ecce8e4b37";
 getLocation();
